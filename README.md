@@ -1,10 +1,10 @@
 # vizdiff
 
 ```text
-╔══════════════════════════════╗
-║          VIZDIFF             ║
-║  see exactly what changed    ║
-╚══════════════════════════════╝
+  +-----------+     +-----------+
+  |  BEFORE   |  != |   AFTER   |   VIZDIFF
+  |     o     |     |     x     |   see exactly what changed
+  +-----------+     +-----------+
 ```
 
 **Spot the difference — visual regression for screenshots, in your terminal.**
