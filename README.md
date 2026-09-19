@@ -1,5 +1,12 @@
 # vizdiff
 
+```text
+╔══════════════════════════════╗
+║          VIZDIFF             ║
+║  see exactly what changed    ║
+╚══════════════════════════════╝
+```
+
 **Spot the difference — visual regression for screenshots, in your terminal.**
 
 Compare two images or two directories of screenshots. Get a similarity score, highlighted diff regions, a side-by-side view, and an HTML report. Built for developers who screenshot their UI and want to catch visual regressions before they ship.
