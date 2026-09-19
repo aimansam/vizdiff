@@ -8,6 +8,11 @@ Compare two images or two directories of screenshots. Get a similarity score, hi
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Pillow](https://img.shields.io/badge/dependency-Pillow-lightgrey.svg)](https://python-pillow.org/)
 
+![vizdiff screenshots](assets/vizdiff_before.png)
+![vizdiff diff overlay](assets/vizdiff_diff.png)
+
+*Top: before (left) and after (right) screenshots. Bottom: pixel-level diff overlay — red regions show exactly what changed. Similarity: 91.90%.*
+
 ## Quickstart
 
 ```bash
