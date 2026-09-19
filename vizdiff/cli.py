@@ -31,7 +31,7 @@ EXAMPLES:
     parser.add_argument("--min-region", "-m", type=int, default=50,
                         help="Minimum region area in pixels (default: 50)")
     parser.add_argument("--passed", action="store_true",
-                        help="Exit 0 if images are similar (>=98%), 1 otherwise")
+                        help="Exit 0 if images are similar (>=98%%), 1 otherwise")
 
     args = parser.parse_args(argv)
 
