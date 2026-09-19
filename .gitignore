@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.sqlite
+dist/
+build/
+*.egg-info/
+MDEOF
